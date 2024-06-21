@@ -11,6 +11,8 @@ Project Structure:
 
 Instal:
 git clone
+git add .
+git commit -m "Local init"
 
 
 NOTE:
