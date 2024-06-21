@@ -9,6 +9,10 @@ Project Structure:
    Server receives requests from the user, interacts with the Facebook API, and returns the posting result.
    Used Python
 
+Instal:
+git clone
+
+
 NOTE:
 Facebook requires app registration and authorization, access configuration, and then provides an authorization key for the API.
 Documentation in process...
