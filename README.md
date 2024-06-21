@@ -10,9 +10,11 @@ Project Structure:
    Used Python
 
 Instal:
-git clone
-git add .
-git commit -m "Local init"
+- git clone <URL>
+- git remote git remote set-url origin <URL>
+- git add .
+- git commit -m "Local init"
+- git push origin main
 
 
 NOTE:
